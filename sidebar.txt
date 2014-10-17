@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[laf:home|Door43 (laf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-laf|d43-laf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-laf/archive/master.zip|d43-laf.zip]]
+
+**Recent Changes**
+{{changes>ns = laf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/laf|Ethnologue data]]
+
